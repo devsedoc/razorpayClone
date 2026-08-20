@@ -65,11 +65,8 @@ npm run build
 
 ## 📸 Preview
 
-*(Add a screenshot of the finished page here once you have one — drag an image into this README on GitHub, or place it in the `images/` folder and reference it like:)*
+<img width="1901" height="844" alt="image" src="https://github.com/user-attachments/assets/33e6d2c2-8d51-4b0f-a3a2-2cc99d72fa4e" />
 
-```md
-![Preview](./images/preview.png)
-```
 
 ## ⚠️ Disclaimer
 
