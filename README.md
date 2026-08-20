@@ -71,10 +71,6 @@ npm run build
 ![Preview](./images/preview.png)
 ```
 
-## 📚 What I Learned
-
-*(Optional section — a few lines on what you practiced: responsive layout with Tailwind, custom SVG shapes, hover animations, replicating a real design pixel-by-pixel, etc.)*
-
 ## ⚠️ Disclaimer
 
 This is a **clone built for learning/practice purposes only**. All Razorpay branding, content, and design inspiration belong to Razorpay Software Private Limited. This project is not affiliated with or endorsed by Razorpay in any way, and is not intended for commercial use.
