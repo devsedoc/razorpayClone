@@ -47,8 +47,8 @@ razorpayClone2/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/razorpayClone2.git
-cd razorpayClone2
+git clone https://github.com/devsedoc/razorpayClone
+cd razorpayClone
 ```
 
 2. Install dependencies
