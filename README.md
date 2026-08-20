@@ -1,6 +1,10 @@
 # Razorpay Landing Page Clone
 
-A front-end clone of the Razorpay website's landing page, built as a practice project to recreate a real-world, modern SaaS landing page using HTML and Tailwind CSS.
+A responsive recreation of Razorpay's landing page built with HTML and Tailwind CSS, created to practice modern frontend layout, responsive design, and component-style UI development.
+
+## 🌐 Live Demo
+
+[View Live Website](https://razorpay-clone-azure-five.vercel.app/)
 
 ## 🔍 Overview
 
@@ -27,7 +31,7 @@ This project replicates the visual design and layout of Razorpay's homepage, inc
 ## 📁 Project Structure
 
 ```
-razorpayClone2/
+razorpayClone/
 ├── images/              # all image and icon assets
 ├── index.html           # main page markup
 ├── main.css             # compiled Tailwind CSS output
@@ -67,6 +71,20 @@ npm run build
 
 <img width="1901" height="844" alt="image" src="https://github.com/user-attachments/assets/33e6d2c2-8d51-4b0f-a3a2-2cc99d72fa4e" />
 
+## ✨Features
+
+- **Fully Responsive Design** – Optimized for desktop, tablet, and mobile screens
+- **Responsive Navigation Bar** – Includes dropdown-style hover interactions
+- **Hero Section** – Promotional content with clear call-to-action buttons
+- **Payment Suite Section** – Recreates Razorpay's payment product showcase with custom SVG shapes
+- **Business Banking Section** – Responsive layout showcasing banking features
+- **Product Suite Cards** – Grid-based cards highlighting different Razorpay products
+- **Core Features Section** – Feature presentation with icons and illustrations
+- **Testimonials Section** – Customer quotes presented in a carousel-style layout
+- **CTA Banner** – Dedicated call-to-action section near the bottom of the page
+- **Multi-Column Footer** – Includes navigation links, newsletter signup, social links, and company information
+- **Custom UI Styling** – Built using Tailwind CSS with custom SVG elements
+- **Typography & Icons** – Uses Mulish and Feather Icons for a clean interface
 
 ## ⚠️ Disclaimer
 
